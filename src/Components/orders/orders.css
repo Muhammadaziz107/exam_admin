@@ -1,0 +1,11 @@
+.orders {
+  margin-top: 170px;
+}
+.confirmation {
+  width: 150px;
+  height: 30px;
+  background-color: rgb(99, 45, 150);
+  color: white;
+  border: none;
+  font-size: 15px;
+}

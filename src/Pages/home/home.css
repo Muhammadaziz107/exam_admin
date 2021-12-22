@@ -1,0 +1,29 @@
+.sidebar {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 100%;
+  background-color: rgb(38, 50, 92);
+  padding: 20px;
+  left: 0;
+  top: 0;
+}
+.sidebar__ul {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  margin-right: 100px;
+}
+.sidebar__ul__item__link {
+  color: white;
+  font-size: 25px;
+  text-decoration: none;
+}
+.sidebar__ul__item {
+  margin-left: 50px;
+}
+.sidebar__heading-div h1 {
+  color: white;
+}
